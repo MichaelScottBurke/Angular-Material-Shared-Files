@@ -1,7 +1,6 @@
 /******************* css utilities ****************/
-//as properties rather than classes
 
-//text-align
+/* text-align */
 [text-left] {text-align: left !important;}
 [text-right] {text-align: right !important;}
 [text-center] {text-align: center !important;}
@@ -14,7 +13,7 @@
     text-transform: uppercase;
 }
 
-//padding
+/* padding */
 [no-padding] {
   padding-top: 0 !important; 
   padding-right: 0 !important; 
@@ -38,10 +37,10 @@
   padding-top: 16px !important;
 }
 
-//hide
+/* hide */
 .hide, [hide] { display: none !important; }
 
-//avatar style
+/* avatar style */
 [icon-avatar] {
   border-radius: 50%; 
   background: #efefef; 
